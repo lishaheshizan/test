@@ -5,3 +5,4 @@ add some local texts
 
 add remote texts
 add texts on master
+add some feature texts
